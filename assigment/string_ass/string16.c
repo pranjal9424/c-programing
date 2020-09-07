@@ -1,4 +1,4 @@
-#include<stdio.h>>
+#include<stdio.h>
 void LastOccurrence(char* s,char ch){
       int flag=-1,i=0;
       while(s[i]!='\0'){
