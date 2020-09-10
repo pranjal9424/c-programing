@@ -1,27 +1,24 @@
 #include<stdio.h>
-#include<conio.h>
-int main()
-{
-    int n,num,rev=0;
+int main(){
+   int n,i,rev=0,l;
+   scanf("%d",&n);
+   l=n;
+   while(n!=0){
+            i=n%10;
+            rev=rev*10+i;
+    n/=10;
+   }
+   if(rev==l)
+   printf("palindrome");
+   else
+    printf("Not palindrome");
 
-    printf("enter any no. for polindrome :");
-    scanf("%d",&n);
-
-  num=n;
-
-    while (n != 0)
-    {
-        rev=(rev*10) +(n%10);
-
-        n /= 10;
-    }
-
-    if (rev == num)
-    {
-        printf("%d are polindrome",rev);
-    }
-    else
-    {
-        printf("%d are not polindrome",rev);
-    }
+   return 0;
 }
+
+
+
+
+
+
+

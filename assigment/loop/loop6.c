@@ -1,24 +1,13 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+int main(){
+   int n,i=1,sum=0;
+   scanf("%d",&n);
+   while(i<=n){
+        if(i%2==0)
+            sum+=i;
+    i++;
+   }
 
-{
-    int n,j,sum=0;
-
-    printf("enter upper limit :");
-    scanf("%d",&j);
-
-for (n=2;n<=j;n+=2)
-    {
-        sum += n;
-
-
-    }
-     printf("sum of even no 1 to %d = %d",j,sum);
+   printf("sum is %d",sum);
+   return 0;
 }
-
-
-
-
-
-

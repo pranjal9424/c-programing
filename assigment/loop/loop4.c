@@ -1,16 +1,13 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+int main(){
+   int n=100,i=1;
 
-{
-    int n=0;
-
-    while (n<=100)
-    {
-        if (n%2==0)
-
-            printf("%d \n",n);
-            n++;
-
-    }
+   while(i<=n){
+        if(i%2==0)
+            printf("%d\n",i);
+    i++;
+   }
+   return 0;
 }
+
+

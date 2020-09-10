@@ -1,66 +1,47 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
-{
-    int n, num,rev=0;
+int main(){
+   int n,i,rev=0,l;
+   scanf("%d",&n);
+   l=n;
+   while(n!=0){
+            i=n%10;
+            rev=rev*10+i;
+    n/=10;
+   }
 
-    printf("enter any no. :");
-    scanf("%d",&n);
+   while(rev!=0){
+            i=rev%10;
 
-    num=n;
+            if(i==0)
+                printf("zero ");
+            if(i==1)
+                printf("one ");
+            if(i==2)
+                printf("two ");
+            if(i==3)
+                printf("three ");
+            if(i==4)
+                printf("four ");
+            if(i==5)
+                printf("five ");
+            if(i==6)
+                printf("six ");
+            if(i==7)
+                printf("seven ");
+            if(i==8)
+                printf("eight ");
+            if(i==9)
+                printf("nine ");
 
-    while(n !=0)
-    {
-        rev =(rev*10)+(n%10);
+    rev/=10;
+   }
 
-        n/=10;
-    }
-
-    while (rev !=0)
-    {
-        switch (rev %10)
-        {
-        case 0 :
-            printf("zero ");
-            break;
-
-            case 1 :
-            printf("one ");
-            break;
-
-            case 2 :
-            printf("two ");
-            break;
-
-            case 3 :
-            printf("three ");
-            break;
-
-            case 4 :
-            printf("four ");
-            break;
-
-            case 5 :
-            printf("five ");
-            break;
-
-            case 6 :
-            printf("six ");
-            break;
-
-            case 7 :
-            printf("seven ");
-            break;
-
-            case 8 :
-            printf("eight ");
-            break;
-
-            case 9 :
-            printf("nine ");
-            break;
-        }
-        rev = rev/10;
-    }
 }
+
+
+
+
+
+
+
 

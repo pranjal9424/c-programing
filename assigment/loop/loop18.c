@@ -1,19 +1,20 @@
 #include<stdio.h>
-#include<conio.h>
-int main()
-{
-    int i,base,exp,pow=1;
+int main(){
+   int b,e,pow=1;
+   scanf("%d",&b);
+   scanf("%d",&e);
 
-    printf("enter base no. :");
-    scanf("%d",&base);
+   while(e--){
+            pow*=b;
+   }
+   printf("power=%d\n",pow);
 
-    printf("enter exponent no. :");
-    scanf("%d",&exp);
-
-    for (i=0;i<=exp;i++)
-    {
-        pow=pow*base;
-    }
-    printf("%d ^ %d =%d",base,exp,pow);
+   return 0;
 }
+
+
+
+
+
+
 

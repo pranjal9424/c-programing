@@ -1,33 +1,20 @@
 #include<stdio.h>
-#include<conio.h>
-int main()
-{
-    int  i,n,isprime;
+int main(){
+   int n,flag=1,l;
+   scanf("%d",&n);
 
-    isprime=1;
+    for(l=2;l<=n/2;l++)
+        if(n%l==0){
+          flag=0;
+          break;
+        }
+        if(flag==1){
+            printf("%d is prime no.",n);
+        }
+        else
+            printf("%d is not prime no.",n);
 
-    printf("enter any no. to find pn or cn :");
-    scanf("%d",&n);
-
-
-
-    for (i=2; i<=n/2; i++)
-    {
-        if (n%i==0)
-       {
-           isprime=0;
-
-           break;
-       }
-    }
-       if (isprime==1)
-       {
-           printf("%d are pn",n);
-       }
-       else
-       {
-           printf("%d are cn",n);
-       }
-
-
+   return 0;
 }
+
+

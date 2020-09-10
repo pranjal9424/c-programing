@@ -1,23 +1,13 @@
 #include<stdio.h>
-#include<conio.h>
-int main()
+int main(){
+   int n,f,rev=0,l;
+   scanf("%d",&n);
+   l=n%10;
+   while(n!=0){
+            f=n%10;
+    n/=10;
+   }
+    printf("sum=%d",l+f);
 
-{
-    int n,f,l,a;
-
-    printf("enter any no. :");
-    scanf("%d",&n);
-    f=n;
-    l=n%10;
-
-    while(f>=10)
-    {
-
-      f=f/10;
-
-
-    }
-        a=f+l;
-      printf("sum of first & last digit no =%d\n",a);
+   return 0;
 }
-

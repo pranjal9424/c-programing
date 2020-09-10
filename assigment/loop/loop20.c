@@ -1,18 +1,11 @@
 #include<stdio.h>
-#include<conio.h>
-int main()
-{
-    int i,n;
+int main(){
+   int n,f,rev=0,l;
+   scanf("%d",&n);
+    for(l=1;l<n;l++)
+        if(n%l==0)
+          printf("%d  ",l);
 
-    printf("enter any no. to find its factor :");
-    scanf("%d",&n);
-    printf("all factor of no. are :");
-
-    for(i=1;i<=n;i++)
-    {
-        if (n%i ==0)
-        {
-            printf(" %d, ",i);
-        }
-    }
+   return 0;
 }
+

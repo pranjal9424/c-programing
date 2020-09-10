@@ -1,27 +1,11 @@
 #include<stdio.h>
-#include<conio.h>
-void main ()
+int main(){
+   int n=97+25,i=97;
 
-{
-    int i=65;
-
-    while (i<=90)
-    {
-        printf("\n %c",i);
-        i++;
-    }
+   while(i<=n){
+    printf("%c\n",i);
+    i++;
+   }
+   return 0;
 }
 
-// other method also//
-
-/*
-{
-    int i='a';
-
-    while (i<='z')
-    {
-        printf("\n %c",i);
-        i++;
-    }
-}
-*/

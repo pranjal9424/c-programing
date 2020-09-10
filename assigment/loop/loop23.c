@@ -1,27 +1,20 @@
 #include<stdio.h>
-#include<conio.h>
 int main()
 {
-    int i,n1,n2,mx,lcm=1;
+    int n1,n2,lcm,i,max;
+    printf("first no.:-");
+    scanf("%d",&n1);
+    printf("Second no.:-");
+    scanf("%d",&n2);
 
-    printf("enter any two no. :");
-    scanf("%d%d",&n1,&n2);
-
-    mx=(n1<n2)? n1: n2;
-
-    i=mx;
-
-    while (1)
-    {
-        if (i%n1==0 && i%n2==0)
-        {
-            lcm =i;
-
-            break ;
+    max=(n1>n2)? n1:n2;
+    i=max;
+    while(1){
+        if(i%n1==0 && i%n2==0){
+            lcm=i;
+            break;
         }
-        i += mx;
+        i+=max;
     }
-    printf("LCM of %d & %d =%d",n1,n2,lcm);
-
-    return 0;
+    printf("lcm of %d and %d is %d",n1,n2,lcm);
 }

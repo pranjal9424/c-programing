@@ -1,14 +1,11 @@
 #include<stdio.h>
-#include<conio.h>
-int main()
-{
-    int  i,n,f=1;
-    printf("enter any no. to find its factorial :");
-    scanf("%d",&n);
+int main(){
+   int n,f,fac=1,l;
+   scanf("%d",&n);
+    for(l=n;l>0;l--)
+        fac*=l;
 
-    for (i=1;i<=n;i++)
-    {
-        f=f*i;
-    }
-    printf("factorial of thic no. %d =%d",n,f);
+   printf("factorial:- %d",fac);
+   return 0;
 }
+

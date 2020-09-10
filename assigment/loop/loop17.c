@@ -1,9 +1,12 @@
- #include <stdio.h>
-    #define  ABC    10
-    #define  XYZ 	ABC - 1
-    int main(void) {
-        int i = 19;
-        i = i - XYZ;
-        printf("%d\n", i);
-        return 0;
-    }
+#include<stdio.h>
+int main(){
+   int n=255,i=1;
+
+   while(i<=n){
+    printf("%c\n",i);
+    i++;
+   }
+   return 0;
+}
+
+

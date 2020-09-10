@@ -1,21 +1,14 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
-
-{
-    int n,j,sum=0;
-
-    printf("enter any no :");
-    scanf("%d",&j);
-
-for (n=0;n<=j;n++)
-    {
-
-     sum += n;
+int main(){
+   int n,i=1,sum=0;
+   scanf("%d",&n);
+   while(i<=n){
+            sum+=i;
+    i++;
    }
 
-     printf("sum of no. b/w 1 to %d =%d\n",j,sum);
-
-
-
+   printf("sum is %d",sum);
+   return 0;
 }
+
+

@@ -1,18 +1,11 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
-{
-    int n=0;
+int main(){
+   int n,i=1;
+   scanf("%d",&n);
 
-    while (n<=100)
-    {
-
-
-        printf("%d\n",n);
-
-    n++;
-    }
-    }
-
-
-
+   while(i<=n){
+    printf("%d\n",i);
+    i++;
+   }
+   return 0;
+}
