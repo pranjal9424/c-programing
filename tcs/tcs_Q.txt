@@ -78,3 +78,16 @@ Q 11. Print matrix in snake pattern
               
        Output : 10 20 30 40 45 35 25 15 27 29 37 48 50 39 33 32
 
+Q 12. you take n element of array in which score of student  take input k and check rank of student as well as print it
+      test 1:
+        7
+        12 43 25 67 89 12 9
+        67
+      output
+        2  
+
+Q 13. C program to convert a decimal numbers
+      test 1:
+        2020
+      output
+        mmxx
