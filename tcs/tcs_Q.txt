@@ -129,4 +129,11 @@ Q 16  Consider the below series:
 
 
 
+Q 17. Given an Input string aaaabbccdee. Count the no of same consecutive character and give the output as a4b2c2d1e2. Assume: Maximum Length of the string is 20.
+      test case:
+            input:a4b2c2d1e2. 
+            output:a4b2c2d1e2
 
+Q 18. prime factor imp
+            input:50 
+            output:2 5 5
