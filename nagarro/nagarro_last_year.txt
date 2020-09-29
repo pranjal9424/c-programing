@@ -22,7 +22,7 @@ ________________________________________________________________________________
 Q 3. (palindrome Count) write a function to find all the words in a string which are palindrome
        test case 1:
              Input 1: "this is level 71"
-             Input 2: "16
+             Input 2: "16"
             
              output: 1
 
@@ -54,7 +54,7 @@ Q 5. Number of selective arrangemnt:
                            {1, 3, 0, 2}, {2, 3, 0, 1}, {2, 0, 3, 1}, {2, 3,1, 0}, {3, 0, 1, 2}, {3, 2, 0, 1} and {3, 2, 1, 0}
 
 ______________________________________________________________________________________________________________________________
-Q 6. Missing braces:
+Q 6. Missing java code braces:
      test case 1:
              Input: public static void main(String[] args){
                            if(true){
@@ -74,6 +74,24 @@ Q 7. Longest Common subsequece:
              Output: 3
               
              Explanations: Length of Longest common subsequence is 3 that is "aba".
+
+______________________________________________________________________________________________________________________________
+
+Q 8. Reverse string but time complexity o(n) and not use extra space:
+     test case 1:
+             Input 1: "i love programing"
+             Output: "gnimargorp evol i"
+             
+
+______________________________________________________________________________________________________________________________
+Q 9. sorting o and 1 from given arr but not use extra space and time complexity o(n):
+     test case 1:
+             Input 1: "5"
+             Input 2: {1,0,1,0,1}
+             
+             Output: {0,0,1,1,1}
+              
+             Explanations: befor sort {1,0,1,0,1} after sort {0,0,1,1,1}.
 
 ______________________________________________________________________________________________________________________________
 
