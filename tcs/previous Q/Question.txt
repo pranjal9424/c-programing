@@ -1,0 +1,32 @@
+___________________________________________________________________________________________________________________________________________________________
+
+Q 1. Segregate 0s and 1s
+     
+     Write a program to segregate 0s and 1s You are given an array of 0s and 1s in random order. Segregate 0s on left side and 1s on right side of the array.
+              Sample Input: 6
+                            0 1 0 1 1 1
+              
+              Sample Output: 0 0 1 1 1 1
+
+___________________________________________________________________________________________________________________________________________________________
+
+Q 2. Count of words in a given string
+   
+     Write a program to print the number of words in a given string
+          Sample Input: Hello world
+          Sample Output: 2
+
+____________________________________________________________________________________________________________________________________________________________
+
+Q 3. Find 2 numbers in a given array
+     
+     Write a program to find two numbers and print their index else print -1.
+ 
+    Input (stdin) :5
+                   {3,6,7,8,9}
+                   7
+                   9
+    Output (stdout):  Element 1 index = 2
+                      Element 2 index = 4
+
+____________________________________________________________________________________________________________________________________________________________
