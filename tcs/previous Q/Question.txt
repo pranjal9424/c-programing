@@ -30,3 +30,64 @@ Q 3. Find 2 numbers in a given array
                       Element 2 index = 4
 
 ____________________________________________________________________________________________________________________________________________________________
+
+Q 4. Printing unique elements in an array
+        Write a program to print all the unique elements in the given array.
+              Input Format:  The first line of input denotes the size of an array(N)
+                             The remaining line of input denotes the 'N' elements.
+
+               Output Format: Print all the unique elements
+
+         Sample Input: 5
+                       {1,1,2,2,3}
+                Output: 3
+
+____________________________________________________________________________________________________________________________________________________________
+
+Q 5. Printing Duplicate Elements
+         Write a program to print all the duplicate elements in an array.
+               Sample Input: 6
+                             {1 2 3 4 2 4 5}
+                      Output: {2 4}
+_____________________________________________________________________________________________________________________________________________________________
+
+Q 6. Perfect couple
+          Write a program to find pairs of elements whose sum is equal to the given value.
+                Sample Input : 5
+                               {1 3 4 7 5}
+                               7
+                       Output : Perfect couple: 3 4
+
+_____________________________________________________________________________________________________________________________________________________
+
+Q 7. Matrix Addition
+         Write a program to add 2 matrices.
+         Input consists of multiple test cases. For each case, the first line contains two integers m1, n1 the size of matrix and m1 following rows containing the 
+         integers for each row. It is followed by data for matrix B. For each test case output a single line containing all elements of the resultant matrix
+
+         Input : 1
+                 [2] [3]
+                 [1 2 3
+                 4 5 6]
+                 [1 2 3
+                 4 5 6]
+
+         Output : 2 4 6 8 10 12
+
+________________________________________________________________________________________________________________________________________________________
+
+Q 8. Highest frequency Character
+         Write a program to find the highest frequency character in a string.
+             Sample Input: me and my friends love programming
+             
+                    Output: Maximum occurring character is ‘M' = 4 times.
+
+_____________________________________________________________________________________________________________________________________________________
+
+Q 9. Maximum element in an array
+          Write a program to find the maximum element in an array.
+          Sample Input: 5
+                        {1 3 2 5 4}
+                 Output: 5
+
+____________________________________________________________________________________________________________________________________________________
