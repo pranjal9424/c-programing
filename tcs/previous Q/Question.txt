@@ -127,3 +127,24 @@ Q 13.  Encipher it !!!
                     Explanation:  Add the key value 10 to the B's value i.e., 1+10 = 11 and 11's respective character is L.
 
 __________________________________________________________________________________________________________________________________________________________________
+
+Q 14. Decimal to Octal
+          Write a program to convert decimal to octal.
+              Input : 3
+              Output : 3
+
+___________________________________________________________________________________________________________________________________________________________________
+
+Q 15.  Binary to Octal
+          Write a program to convert the given binary number to its equivalent octal value.
+                  Sample Input : 10101
+                         Output : 25
+
+____________________________________________________________________________________________________________________________________________________________________
+
+Q 16. Square root of a Number
+          Write a program to calculate the square root of a number without using sqrt.h().
+                 Input : 2
+                 Output : 1.41
+
+______________________________________________________________________________________________________________________________________________________________________
