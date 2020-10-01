@@ -91,3 +91,39 @@ Q 9. Maximum element in an array
                  Output: 5
 
 ____________________________________________________________________________________________________________________________________________________
+
+Q 10. Arc length of a circle
+          Program to find the arc length of a circle.The input radius and center angle must be a float variables, the output should also be printed as 
+          a floating point value with 2 point precision. No other extra information should be printed except the arc length value to the stdout. (Assume PI = 3.14)
+
+          Input : 25
+                  50
+          Output : 21.81
+
+___________________________________________________________________________________________________________________________________________________
+
+Q 11. Power of a Number
+           Find the power of a number. Get base and exponent from the user. Power of a Number. Print "Wrong input" if the value of the exponent is negative.
+
+           Input : -3
+                    3
+           Output : -27
+
+_______________________________________________________________________________________________________________________________________________________
+
+Q 12. Length of string
+            Program to find the length of string.Get a string input and print its length.
+                   Input : Hello world
+                   Output : 11
+
+________________________________________________________________________________________________________________________________________________________________
+
+Q 13.  Encipher it !!!
+          Write a program to encipher the given character by using the given key. In this coding scheme alphabet code of a/A-0, b/B-1, ..., z/Z - 25
+             Sample Input : B
+                            10
+                    Output : L
+              
+                    Explanation:  Add the key value 10 to the B's value i.e., 1+10 = 11 and 11's respective character is L.
+
+__________________________________________________________________________________________________________________________________________________________________
