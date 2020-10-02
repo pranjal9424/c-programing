@@ -148,3 +148,70 @@ Q 16. Square root of a Number
                  Output : 1.41
 
 ______________________________________________________________________________________________________________________________________________________________________
+
+Q 17. Finding the prime factors of a number
+             Write a program to find the prime factors of a given number.
+                 Sample Input : 15
+                        Output : 3
+                                 5
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Q 18. GCD of N numbers
+           Program to find GCD of N numbers. Get the value of 'n'. Get n elements one by one. print the GCD of these elements.
+                 Input : 6
+                         12
+                         90
+                         16
+                         10
+                         40
+                         36
+                 Output : 2
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Q 19. LCM of two numbers
+            LCM (Least Common Multiple) of two numbers is the smallest number which can be divided by both numbers. 
+            For example LCM of 15 and 20 is 60 and LCM of 5 and 7 is 35.
+                  Input : 5  7
+                  Output : 35
+
+________________________________________________________________________________________________________________________________________________________________________
+
+Q 20. LCM for N numbers
+           Given an array of numbers, find LCM of the array elements.
+                   Input : 5
+                           {10 20 300 27 42}
+                   Output : 18900
+
+________________________________________________________________________________________________________________________________________________________________________
+
+Q 21. Digital Sum
+         Write a program to find the sum of the given digit until a single digit is obtained.
+                Input : 12345
+                Output : 6
+
+________________________________________________________________________________________________________________________________________________________________________
+
+Q 22. Smallest of four Numbers
+         Write a program to find the Smallest of given four numbers
+                Input : 1 2 3 4
+                Output : 1
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+Q 23. Remove vowels
+          Program for removal of vowels from a given sentence. Get a string as sentence and print the sentence without vowels.
+                Input : Hai Hello Welcome
+                Output : H Hll Wlcm
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Q 24. Reverse Fibonacci
+          Write a program to print the Fibonacci series in the reverse order for the given input.
+                   Input : 5
+                   Output : 3 2 1 1 0
+
+________________________________________________________________________________________________________________________________________________________________________
+
+Q 25. 
