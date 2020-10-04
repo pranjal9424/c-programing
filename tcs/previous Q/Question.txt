@@ -214,4 +214,47 @@ Q 24. Reverse Fibonacci
 
 ________________________________________________________________________________________________________________________________________________________________________
 
-Q 25. 
+Q 25. Fibonacci series
+          Program to print the Fibonacci series up to n number of terms. Get the n from user and display the fibonacci series upto the n elements
+                  Input : 10
+                  Output : 0 1 1 2 3 5 8 13 21 34
+
+________________________________________________________________________________________________________________________________________________________________________
+
+Q 26. String Reverse using Recursion
+         Write a program to print the given string in reverse order using recursion.
+                 Input : hello
+                 Output : olleh
+
+________________________________________________________________________________________________________________________________________________________________________
+Q 27. String palindrome
+         Write a Program to check whether a string palindrome or not.
+                 input 1:wow
+                 output: wow is a palindrome
+
+                 Input 2 : madam
+                 Output : madam is a palindrome
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Q 28. Second greatest of three numbers
+          Write a program to find the second greatest of three numbers.
+                 Input:5
+                       7
+                       8
+                 Output : 7
+
+________________________________________________________________________________________________________________________________________________________________________
+
+Q 29. Roots of a quadratic equation
+           Write a program to find the roots of a given quadratic equation.
+           The equation will be in the form of ax2 + bx + c = 0. The input will be 3 integers a, b and c and the output will be the roots of the equation.  
+           The roots need to be floating point integers with 2 precision digits.
+                    Input : 1
+                           -1
+                           -6
+                    Output : root1 = 3.00  root2 = -2.00
+
+________________________________________________________________________________________________________________________________________________________________________
+
+Q 30. 
