@@ -137,3 +137,31 @@ Q 17. Given an Input string aaaabbccdee. Count the no of same consecutive charac
 Q 18. prime factor imp
             input:50 
             output:2 5 5
+
+Q 19. Cliff and Radar
+           Two cliffs of lengths X and Y join at one end and enclose a body of water. The angle between the cliffs, phi, is known. A radar is installed at the 
+           point where the cliffs are joined. It has a range of m where m < X and m < Y. Calculate the area of the water enclosed between the cliffs which 
+           cannot be scanned by the radar and the distance between the end points of two cliffs.
+
+               Input Format: First line contains length of cliff AB, denoted by X in meters
+                             Second line contains length of cliff AC, denoted by Y in meters
+                             Third line contains range of radar, denoted by m in meters
+                             Fourth line contains angle BAC in degrees, denoted by (phi)
+
+              Output Format: On first line, print the area enclosed between the cliffs that cannot be scanned by the radar in square meters
+                             On second line, print the distance between end points of two cliffs in meters
+
+
+              note : Calculations should be done upto 11-digit precision, but output values should be printed upto 5 decimal places
+
+
+Q 20. The power of compounding
+          Manish has realized the power of compounding. Since the days he started earning, he has diligently set aside a small corpus which he saves from his monthly 
+          salary and deposits in his bank account. Bank pays him interest every month. Manish is also a determined investor and refrains from withdrawing anything from this 
+          account because he now believes in power of compounding. Given investment corpus, fixed annual rate of interest and maturity period calculate the amount the Manish 
+          will end up saving at the end of his tenure.
+
+                 Input Format : First line contains investment corpus P
+                                Second line contains rate of interest per annum R
+                                Third line contains tenure T (in months)
+                 Output Format : Maturity amount should be printed, rounded off to its nearest integer value
