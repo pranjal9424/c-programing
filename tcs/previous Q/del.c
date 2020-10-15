@@ -1,22 +1,23 @@
-
 #include <stdio.h>
-int a;
-void main()
+int main()
 {
-    /*float b;
-    b=(float)3/2;*/
-    int c=50,x=5;
-    while(x<=c){
-    printf("%d\n",x);
-    x=x*5;
+    int n;
+    scanf("%d",&n);
+    int i,arr[n];
+    for(i=0;i<n;i++){
+        scanf("%d",&arr[i]);
     }
-/*
-int n=2.5;
-do{
-    printf("%d",n*2);
-}while(n>3 && n<10);
+    int k=0,temp;
+    for(i=1;i<n;i++){
+        if(arr[i]==0)
+        {
+             temp=arr[k];
+             arr[k]=arr[i];
+             arr[i]=temp;
+             k++;
+        }
+    }
 
-
-    //return 0;
-*/}
-
+    for(i=0;i<n;i++)
+        printf("%d ",arr[i]);
+}
