@@ -78,7 +78,7 @@ ________________________________________________________________________________
 
 Q 8. Highest frequency Character
          Write a program to find the highest frequency character in a string.
-             Sample Input: me and my friends love programming
+                    Input: me and my friends love programming
              
                     Output: Maximum occurring character is ‘M' = 4 times.
 
