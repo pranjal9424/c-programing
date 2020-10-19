@@ -1,11 +1,8 @@
 #include<stdio.h>
 #include<string.h>
-int main()
+int countPalin(char* s,int n)
 {
-    char s[100];
-    gets(s);
-    int n,i,j,l,k,count=0;
-    scanf("%d",&n);
+    int i,j,l,k,count=0;
     for(i=0;i<n;i++){
         if(s[i]==' ' || s[i]!='\n'){
             for(j=i;j<n;j++){
@@ -27,7 +24,15 @@ int main()
         }
         i=j;
     }
-    printf("%d",count);
+    return count;
+}
+int main()
+{
+    char s[100];
+    gets(s);
+    int n;
+    scanf("%d",&n);
+    printf("%d",countPalin(s,n));
     return 0;
 }
 /*

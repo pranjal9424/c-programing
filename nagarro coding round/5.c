@@ -12,5 +12,6 @@ int main(){
    int Numbers;
    scanf("%d",&Numbers);
    printf("%d",derangements(Numbers));
+   return 0;
 }
 
