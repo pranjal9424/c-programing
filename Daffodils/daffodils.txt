@@ -1,1 +1,33 @@
-Q 1. 
+__________________________________________________________________________________________________________________________________
+Q 1. Given a string of alphabet, check whether input string have only character difference or not. Given string is "i like banana"
+             test case 1 :
+                  Input : i like bansna
+                  Output : yes
+
+             test case 2 :
+                  Input : i like banana
+                  Output : no
+
+____________________________________________________________________________________________________________________________________
+
+Q 2. find next nearest largest palindrome in another word find the smallest palindrome
+              test case 1 :
+                   Input : 134
+                   Output : 141
+ 
+              test case 2 :
+                   Input : 1234
+                   Output : 1331
+
+____________________________________________________________________________________________________________________________________
+
+Q 3. pascal triangle
+           Input : 6
+           Output : 1
+                    1 1
+                    1 2 1
+                    1 3 3 1
+                    1 4 6 4 1
+                    1 5 10 10 5 1
+
+____________________________________________________________________________________________________________________________________ 
