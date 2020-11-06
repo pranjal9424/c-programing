@@ -8,10 +8,12 @@ int main()
 
       for(k=r;k>i+1;k--)
         printf(" ");
-      for(j=0;j<=i*2;j++)
-        printf("*");
+      for(j=0;j<=i*2;j++){
+        if((i==r-1) || (j==0||j==i*2))
+            printf("*");
+        else
+            printf(" ");
+      }
       printf("\n");
   }
 }
-
-
