@@ -1,14 +1,18 @@
 #include<stdio.h>
 int main()
 {
-    int r=5,c;
-    for(int i=r;i>=0;i--)
+    int r=5,c,y;
+    for(int i=1;i<=r;i++)
     {
         c=i;
-        for(int j=0;j<i;j++)
+        for(int j=i;j<=r;j++)
             printf("%d",c++);
         printf("\n");
     }
-    return 0;
 }
+
+
+
+
+
 
