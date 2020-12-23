@@ -1,6 +1,6 @@
-___________________________________________________________________________________________________________________________________________________________
+Q 1. 
 
-Q 1. Segregate 0s and 1s
+    Segregate 0s and 1s
      
      Write a program to segregate 0s and 1s You are given an array of 0s and 1s in random order. Segregate 0s on left side and 1s on right side of the array.
               Sample Input: 6
@@ -8,17 +8,19 @@ Q 1. Segregate 0s and 1s
               
               Sample Output: 0 0 1 1 1 1
 
-___________________________________________________________________________________________________________________________________________________________
 
-Q 2. Count of words in a given string
+Q 2.
+
+     Count of words in a given string
    
      Write a program to print the number of words in a given string
           Sample Input: Hello world
           Sample Output: 2
 
-____________________________________________________________________________________________________________________________________________________________
 
-Q 3. Find 2 numbers in a given array
+Q 3.
+
+     Find 2 numbers in a given array
      
      Write a program to find two numbers and print their index else print -1.
  
@@ -29,9 +31,10 @@ Q 3. Find 2 numbers in a given array
     Output (stdout):  Element 1 index = 2
                       Element 2 index = 4
 
-____________________________________________________________________________________________________________________________________________________________
 
-Q 4. Printing unique elements in an array
+Q 4. 
+
+    Printing unique elements in an array
         Write a program to print all the unique elements in the given array.
               Input Format:  The first line of input denotes the size of an array(N)
                              The remaining line of input denotes the 'N' elements.
@@ -42,25 +45,27 @@ Q 4. Printing unique elements in an array
                        {1,1,2,2,3}
                 Output: 3
 
-____________________________________________________________________________________________________________________________________________________________
 
-Q 5. Printing Duplicate Elements
+Q 5.
+
+    Printing Duplicate Elements
          Write a program to print all the duplicate elements in an array.
                Sample Input: 6
                              {1 2 3 4 2 4 5}
                       Output: {2 4}
-_____________________________________________________________________________________________________________________________________________________________
 
-Q 6. Perfect couple
+Q 6. 
+
+    Perfect couple
           Write a program to find pairs of elements whose sum is equal to the given value.
                 Sample Input : 5
                                {1 3 4 7 5}
                                7
                        Output : Perfect couple: 3 4
 
-_____________________________________________________________________________________________________________________________________________________
+Q 7.
 
-Q 7. Matrix Addition
+    Matrix Addition
          Write a program to add 2 matrices.
          Input consists of multiple test cases. For each case, the first line contains two integers m1, n1 the size of matrix and m1 following rows containing the 
          integers for each row. It is followed by data for matrix B. For each test case output a single line containing all elements of the resultant matrix
@@ -74,25 +79,28 @@ Q 7. Matrix Addition
 
          Output : 2 4 6 8 10 12
 
-________________________________________________________________________________________________________________________________________________________
 
-Q 8. Highest frequency Character
+Q 8. 
+
+     Highest frequency Character
          Write a program to find the highest frequency character in a string.
                     Input: me and my friends love programming
              
                     Output: Maximum occurring character is ‘M' = 4 times.
 
-_____________________________________________________________________________________________________________________________________________________
 
-Q 9. Maximum element in an array
+Q 9. 
+
+     Maximum element in an array
           Write a program to find the maximum element in an array.
           Sample Input: 5
                         {1 3 2 5 4}
                  Output: 5
 
-____________________________________________________________________________________________________________________________________________________
 
-Q 10. Arc length of a circle
+Q 10.
+
+     Arc length of a circle
           Program to find the arc length of a circle.The input radius and center angle must be a float variables, the output should also be printed as 
           a floating point value with 2 point precision. No other extra information should be printed except the arc length value to the stdout. (Assume PI = 3.14)
 
@@ -100,25 +108,28 @@ Q 10. Arc length of a circle
                   50
           Output : 21.81
 
-___________________________________________________________________________________________________________________________________________________
 
-Q 11. Power of a Number
+Q 11.
+
+     Power of a Number
            Find the power of a number. Get base and exponent from the user. Power of a Number. Print "Wrong input" if the value of the exponent is negative.
 
            Input : -3
                     3
            Output : -27
 
-_______________________________________________________________________________________________________________________________________________________
 
-Q 12. Length of string
+Q 12. 
+
+     Length of string
             Program to find the length of string.Get a string input and print its length.
                    Input : Hello world
                    Output : 11
 
-________________________________________________________________________________________________________________________________________________________________
 
-Q 13.  Encipher it !!!
+Q 13. 
+
+     Encipher it !!!
           Write a program to encipher the given character by using the given key. In this coding scheme alphabet code of a/A-0, b/B-1, ..., z/Z - 25
              Sample Input : B
                             10
@@ -126,38 +137,42 @@ Q 13.  Encipher it !!!
               
                     Explanation:  Add the key value 10 to the B's value i.e., 1+10 = 11 and 11's respective character is L.
 
-__________________________________________________________________________________________________________________________________________________________________
 
-Q 14. Decimal to Octal
+Q 14. 
+
+    Decimal to Octal
           Write a program to convert decimal to octal.
               Input : 3
               Output : 3
 
-___________________________________________________________________________________________________________________________________________________________________
 
-Q 15.  Binary to Octal
+Q 15. 
+
+    Binary to Octal
           Write a program to convert the given binary number to its equivalent octal value.
                   Sample Input : 10101
                          Output : 25
 
-____________________________________________________________________________________________________________________________________________________________________
 
-Q 16. Square root of a Number
+Q 16. 
+
+    Square root of a Number
           Write a program to calculate the square root of a number without using sqrt.h().
                  Input : 2
                  Output : 1.41
 
-______________________________________________________________________________________________________________________________________________________________________
+Q 17.
 
-Q 17. Finding the prime factors of a number
+    Finding the prime factors of a number
              Write a program to find the prime factors of a given number.
                  Sample Input : 15
                         Output : 3
                                  5
 
-_______________________________________________________________________________________________________________________________________________________________________
 
-Q 18. GCD of N numbers
+Q 18. 
+
+    GCD of N numbers
            Program to find GCD of N numbers. Get the value of 'n'. Get n elements one by one. print the GCD of these elements.
                  Input : 6
                          12
@@ -168,66 +183,75 @@ Q 18. GCD of N numbers
                          36
                  Output : 2
 
-_______________________________________________________________________________________________________________________________________________________________________
 
-Q 19. LCM of two numbers
+Q 19. 
+
+    LCM of two numbers
             LCM (Least Common Multiple) of two numbers is the smallest number which can be divided by both numbers. 
             For example LCM of 15 and 20 is 60 and LCM of 5 and 7 is 35.
                   Input : 5  7
                   Output : 35
 
-________________________________________________________________________________________________________________________________________________________________________
 
-Q 20. LCM for N numbers
+Q 20. 
+
+     LCM for N numbers
            Given an array of numbers, find LCM of the array elements.
                    Input : 5
                            {10 20 300 27 42}
                    Output : 18900
 
-________________________________________________________________________________________________________________________________________________________________________
 
-Q 21. Digital Sum
+Q 21. 
+
+     Digital Sum
          Write a program to find the sum of the given digit until a single digit is obtained.
                 Input : 12345
                 Output : 6
 
-________________________________________________________________________________________________________________________________________________________________________
 
-Q 22. Smallest of four Numbers
+Q 22. 
+
+     Smallest of four Numbers
          Write a program to find the Smallest of given four numbers
                 Input : 1 2 3 4
                 Output : 1
 
-_________________________________________________________________________________________________________________________________________________________________________
 
-Q 23. Remove vowels
+Q 23.
+
+    Remove vowels
           Program for removal of vowels from a given sentence. Get a string as sentence and print the sentence without vowels.
                 Input : Hai Hello Welcome
                 Output : H Hll Wlcm
 
-_______________________________________________________________________________________________________________________________________________________________________
 
-Q 24. Reverse Fibonacci
+Q 24. 
+
+    Reverse Fibonacci
           Write a program to print the Fibonacci series in the reverse order for the given input.
                    Input : 5
                    Output : 3 2 1 1 0
 
-________________________________________________________________________________________________________________________________________________________________________
 
-Q 25. Fibonacci series
+Q 25.
+
+     Fibonacci series
           Program to print the Fibonacci series up to n number of terms. Get the n from user and display the fibonacci series upto the n elements
                   Input : 10
                   Output : 0 1 1 2 3 5 8 13 21 34
 
-________________________________________________________________________________________________________________________________________________________________________
 
-Q 26. String Reverse using Recursion
+Q 26.
+
+    String Reverse using Recursion
          Write a program to print the given string in reverse order using recursion.
                  Input : hello
                  Output : olleh
 
-________________________________________________________________________________________________________________________________________________________________________
-Q 27. String palindrome
+Q 27.
+
+     String palindrome
          Write a Program to check whether a string palindrome or not.
                  input 1:wow
                  output: wow is a palindrome
@@ -235,18 +259,19 @@ Q 27. String palindrome
                  Input 2 : madam
                  Output : madam is a palindrome
 
-_______________________________________________________________________________________________________________________________________________________________________
+Q 28.
 
-Q 28. Second greatest of three numbers
+     Second greatest of three numbers
           Write a program to find the second greatest of three numbers.
                  Input:5
                        7
                        8
                  Output : 7
 
-________________________________________________________________________________________________________________________________________________________________________
 
-Q 29. Roots of a quadratic equation
+Q 29.
+
+      Roots of a quadratic equation
            Write a program to find the roots of a given quadratic equation.
            The equation will be in the form of ax2 + bx + c = 0. The input will be 3 integers a, b and c and the output will be the roots of the equation.  
            The roots need to be floating point integers with 2 precision digits.
@@ -255,9 +280,10 @@ Q 29. Roots of a quadratic equation
                            -6
                     Output : root1 = 3.00  root2 = -2.00
 
-________________________________________________________________________________________________________________________________________________________________________
 
-Q 30. Pendulum
+Q 30.
+
+      Pendulum
           Bob is doing a research in Pendulum. He is just pushing the pendulum aside and the pendulum started moving in to-and-fro motion. Bob will push the pendulum 
           always towards his right side to start the oscillation. Bob wanted to calculate the distance between extreme position and the centre position of pendulum for 
           each oscillations. He somehow calculated all the possible distance. Since he is busy in this research he is giving the task to his assistant who needs to 
@@ -270,15 +296,17 @@ Q 30. Pendulum
                             { 1 3 2 5 4 }
                     Output : { 4 2 1 3 5 }
 
-_________________________________________________________________________________________________________________________________________________________________________________
 
-Q 31. If given no is prime print its squareroot
+Q 31.
+
+       If given no is prime print its squareroot
             Input : 7
             Output : 2.65
 
-_________________________________________________________________________________________________________________________________________________________________________________
 
-Q 32. Lockdown game
+Q 32.
+
+      Lockdown game
           In this lockdown a family of N members decided to play a game the rules of which are :-
           All N members are made to sit uniformly in a circle (ie. from 1 to N in clockwise direction).
           The game start with the person sitting at first position.
@@ -300,15 +328,17 @@ Q 32. Lockdown game
                                  5th turn lyrics: 'y' therefore gets eliminated.
                                  Hence person sitting at position 1 won this game. 
 
-______________________________________________________________________________________________________________________________________________________________________________
 
-Q 33.  Write a program to display the characters in prime position of a given string.
+Q 33. 
+
+       Write a program to display the characters in prime position of a given string.
               Input : Computer
               Output : o m u e
 
-______________________________________________________________________________________________________________________________________________________________________________
 
-Q 34   find the maximum contiguous subarray sum.
+Q 34   
+
+       find the maximum contiguous subarray sum.
            Input 1: 3
                     7
                     8 -8 9 -9 10 -11 12
@@ -320,9 +350,10 @@ Q 34   find the maximum contiguous subarray sum.
                      23
                      52
 
-____________________________________________________________________________________________________________________________________________________________________________
 
-Q 35. Dimand print
+Q 35. 
+
+        Dimand print
           Input : 4
           Output :  *
                    ***
@@ -332,4 +363,3 @@ Q 35. Dimand print
                    ***
                     *
 
-_________________________________________________________________________________________________________________________________________________________________________
