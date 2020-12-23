@@ -1,12 +1,16 @@
-Q 1. WAP for nth prime no.
+Q 1.
+
+    WAP for nth prime no.
      test case 1:
              Input: 10
              
              Output: 1 2 3 5 7
               
              Explanations: 1 2 3 5 7 had only 2 factor so these are prime no. 
-______________________________________________________________________________________________________________________________
-Q 2. WAP count no. of dearrangemnt
+
+Q 2.
+
+     WAP count no. of dearrangemnt
      test case 1:
              Input: n = 4
              
@@ -16,10 +20,10 @@ Q 2. WAP count no. of dearrangemnt
                            possible derangements {1, 0, 3, 2} {1, 2, 3, 0}
                            {1, 3, 0, 2}, {2, 3, 0, 1}, {2, 0, 3, 1}, {2, 3,1, 0}, {3, 0, 1, 2}, {3, 2, 0, 1} and {3, 2, 1, 0}
 
-______________________________________________________________________________________________________________________________
 
+Q 3.
 
-Q 3. (palindrome Count) 
+     (palindrome Count) 
       write a function to find all the words in a string which are palindrome
        test case 1:
              Input 1: "this is level 71"
@@ -30,10 +34,9 @@ Q 3. (palindrome Count)
              Explanation: the reverse of the word 'level' is 'level'.Hence the word is palindrome . As the string contains only 
                           one palindrome, so the return value will be 1.
 
-_______________________________________________________________________________________________________________________________
+Q 4.
 
-
-Q 4. Highest Common factor
+    Highest Common factor
       test case 1:
              Input 1: 3
              Input 2: {2,4,8}
@@ -43,8 +46,9 @@ Q 4. Highest Common factor
              Explanation: the common factor for 2,4,8 are 1 and 2 Hence the HCF is 2
 
 
-______________________________________________________________________________________________________________________________
-Q 5. Number of selective arrangemnt:
+Q 5. 
+
+    Number of selective arrangemnt:
      test case 1:
              Input: n = 4
              
@@ -54,8 +58,9 @@ Q 5. Number of selective arrangemnt:
                            possible derangements {1, 0, 3, 2} {1, 2, 3, 0}
                            {1, 3, 0, 2}, {2, 3, 0, 1}, {2, 0, 3, 1}, {2, 3,1, 0}, {3, 0, 1, 2}, {3, 2, 0, 1} and {3, 2, 1, 0}
 
-______________________________________________________________________________________________________________________________
-Q 6. Missing java code braces:
+Q 6.
+
+    Missing java code braces:
      test case 1:
              Input: public static void main(String[] args){
                            if(true){
@@ -66,8 +71,9 @@ Q 6. Missing java code braces:
               
              Explanations: if  closing curly bracket are missing.
 
-______________________________________________________________________________________________________________________________
-Q 7. Longest Common subsequece:
+Q 7. 
+
+     Longest Common subsequece:
      test case 1:
              Input 1: "aba"
              Input 2: "ababa"
@@ -76,16 +82,18 @@ Q 7. Longest Common subsequece:
               
              Explanations: Length of Longest common subsequence is 3 that is "aba".
 
-______________________________________________________________________________________________________________________________
 
-Q 8. Reverse string but time complexity o(n) and not use extra space:
+Q 8. 
+
+     Reverse string but time complexity o(n) and not use extra space:
      test case 1:
              Input 1: "i love programing"
              Output: "gnimargorp evol i"
              
 
-______________________________________________________________________________________________________________________________
-Q 9. sorting o and 1 from given arr but not use extra space and time complexity o(n):
+Q 9. 
+
+      sorting o and 1 from given arr but not use extra space and time complexity o(n):
      test case 1:
              Input 1: "5"
              Input 2: {1,0,1,0,1}
@@ -94,9 +102,10 @@ Q 9. sorting o and 1 from given arr but not use extra space and time complexity 
               
              Explanations: befor sort {1,0,1,0,1} after sort {0,0,1,1,1}.
 
-______________________________________________________________________________________________________________________________
 
-Q 10. array rotaion
+Q 10. 
+
+    array rotaion
         test case 1:
              Input : 4
                      {1,2,3,4,5}
@@ -104,9 +113,10 @@ Q 10. array rotaion
 
             output : {2,3,4,5,1}
 
-_______________________________________________________________________________________________________________________________
 
-Q 11. String rotate and campare
+Q 11.   
+
+     String rotate and campare
           test case 1:
                 Input : adaada
                         3
@@ -119,9 +129,10 @@ Q 11. String rotate and campare
                         2
                 output : 0
 
-______________________________________________________________________________________________________________________________
 
-Q 12. Positve and negative
+Q 12. 
+
+     Positve and negative
            test case 1:
                  Input : {4,3,5}
                          PNP
@@ -130,9 +141,10 @@ Q 12. Positve and negative
  
                  Explanation : maximum electric charge +4-3+5=6 , so magnitude is abs(6)*100
 
-_______________________________________________________________________________________________________________________________
 
-Q 13. Adam's Charity
+Q 13.
+
+     Adam's Charity
         Square sum upto N
            test case 1:
                  Input : 5
@@ -140,9 +152,10 @@ Q 13. Adam's Charity
  
                  Explanation : 1^1+2^2+3^3+4^4+5^5=55
 
-_______________________________________________________________________________________________________________________________
 
-Q 14. String rotate in two form
+Q 14.
+
+     String rotate in two form
             test case 1:
                  Input : AbcDef
                          1
@@ -154,18 +167,20 @@ Q 14. String rotate in two form
                                turn 3:cDefAb
                                turn 4:AbcDef
 
-________________________________________________________________________________________________________________________________
 
-Q 15. Print n th prime no.
+Q 15.
+
+     Print n th prime no.
                 Input : 5
                 output : 11
 
                 Explanation : prime series 2 3 5 7 11 13
                               5th prime no. is 11
 
-__________________________________________________________________________________________________________________________________
+ 
+Q 16. 
 
-Q 16. find the highest remainder
+    find the highest remainder
                 input : 25
                         11
                 output : 7
@@ -177,9 +192,10 @@ Q 16. find the highest remainder
                               remainder 5 :25%10=5
                               remainder 7 :25%9=7
 
-_____________________________________________________________________________________________________________________________________
+ 
+Q 17.
 
-Q 17. Desrtribution of k identical mango to l identical man
+     Desrtribution of k identical mango to l identical man
           test case 1:
                 Input : 2
                         2
@@ -190,16 +206,17 @@ Q 17. Desrtribution of k identical mango to l identical man
                 Input : 1 and 12
                 output : 1
 
-_____________________________________________________________________________________________________________________________________
 
-Q 18.  Allies Apples problem
+Q 18.
+
+    Allies Apples problem
              test case 1:
                   Input : 13
                   output : 16
 
-_____________________________________________________________________________________________________________________________________ 
 
-Q 19. String without the occurence of character x
+Q 19.
+    String without the occurence of character x
          test case 1:
              Input : Welcome to mettl
                      l
@@ -212,15 +229,17 @@ Q 19. String without the occurence of character x
 
              output : hell wrld mg
 
-_____________________________________________________________________________________________________________________________________
 
-Q 20. facotorial of n no
+Q 20.
+
+    facotorial of n no
             Input : 5
             output : 120
 
-____________________________________________________________________________________________________________________________________
 
-Q 21. String within String
+Q 21.
+
+    String within String
           check for all charachter present in string 1
               test case 1:
                    input : zbk
@@ -233,9 +252,10 @@ Q 21. String within String
  
                  output : No
 
-______________________________________________________________________________________________________________________________________
 
-Q 22. Program to find the kth character after decrypting a string
+Q 22. 
+
+    Program to find the kth character after decrypting a string
               test case 1:
                     Input : a1b1c3
                             5
@@ -245,9 +265,10 @@ Q 22. Program to find the kth character after decrypting a string
                             7
                     output : -1
 
-_______________________________________________________________________________________________________________________________________
  
-Q 23. String palindrome
+Q 23.
+ 
+    String palindrome
          test case 1:
               Input : level
               output : 1
@@ -256,9 +277,10 @@ Q 23. String palindrome
               Input : abcd
               output : 0;
 
-_______________________________________________________________________________________________________________________________________
 
-Q 24. word reverse in string 
+Q 24.
+
+     word reverse in string 
             test case 1:
                 Input : welcome to mettl
                 Output : mettl to welcome
@@ -267,9 +289,10 @@ Q 24. word reverse in string
                 Input : My name is khan
                Output : khan is name my
 
-_______________________________________________________________________________________________________________________________________ 
 
-Q 25. highest frequency char in given string
+Q 25.
+
+     highest frequency char in given string
            test case 1:
                   Input : abcdd
                   Output : d
@@ -278,9 +301,10 @@ Q 25. highest frequency char in given string
                   Input : puff
                   Output : f
 
-________________________________________________________________________________________________________________________________________
 
-Q 26. Longest Increasing Subsequence
+Q 26.
+
+     Longest Increasing Subsequence
              test case 1 :
                   Input : 3
                           {1,3,8}
@@ -291,16 +315,18 @@ Q 26. Longest Increasing Subsequence
                           {41,18467,6334,26500,19169}
                   output : 3
 
-_______________________________________________________________________________________________________________________________________
 
-Q 27. Trailing Zero
+Q 27. 
+
+    Trailing Zero
              test case 1:
                    Input : 5
                    Output : 1
 
-_______________________________________________________________________________________________________________________________________
 
-Q 28. Natural Subsequence
+Q 28.
+
+     Natural Subsequence
              test case 1:
                  input : abzd
                  Output : 3
@@ -309,4 +335,3 @@ Q 28. Natural Subsequence
                  input : bcdabdz
                  Output : 4
 
-______________________________________________________________________________________________________________________________________
