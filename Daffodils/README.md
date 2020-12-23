@@ -12,7 +12,7 @@ Q 1.
 
 Q 2.
 
- find next nearest largest palindrome in another word find the smallest palindrome
+      find next nearest largest palindrome in another word find the smallest palindrome
               test case 1 :
                    Input : 134
                    Output : 141
@@ -24,7 +24,7 @@ Q 2.
 
 Q 3.
 
- pascal triangle
+       pascal triangle
            Input : 6
            Output : 1
                     1 1
@@ -35,7 +35,7 @@ Q 3.
 
 Q 4.
 
- Prime number pattern
+       Prime number pattern
             Input : 7
             output : 1
                      1 2
@@ -48,7 +48,7 @@ Q 4.
 
 Q 5.
 
- find the longest palindromic substring of input string
+        find the longest palindromic substring of input string
                 Input: "forgeeksskeegfor" 
                 Output: "geeksskeeg"
 
@@ -58,7 +58,7 @@ Q 5.
 
 Q 6.
 
- In this problem an array is given and we need to find the Nth element which occurs k times.
+       In this problem an array is given and we need to find the Nth element which occurs k times.
                Input : 12
                        {1,3,2,6,3,3,2,6,1,1,2,6}
                        3
@@ -68,7 +68,7 @@ Q 6.
 
 Q 7.
 
- Mega prime
+    Mega prime
           Input : 51
           output : no
 
@@ -79,7 +79,7 @@ Q 7.
 
 Q 8.
 
- print no. of times a substring appears in a string
+     print no. of times a substring appears in a string
               Input : i am am khan
                       am
               Output : 2
@@ -87,7 +87,7 @@ Q 8.
 
 Q 9.
 
- Minimum number of bracket reversals needed to make an expression balanced
+     Minimum number of bracket reversals needed to make an expression balanced
                Input : "}{"
                Output : 2
 
@@ -96,21 +96,21 @@ Q 9.
 
 Q 10.
 
- highest prime number in given array
+      highest prime number in given array
               Input : 6
                       {2,3,24,6,1,2}
               output : 3
 
 Q 11.
 
- Remove dublicate word from the sentence and print it.
+      Remove dublicate word from the sentence and print it.
               Input : you guys are awesome you can do it
               output : you guys are awesome can do it
 
 
 Q 12.
 
- Minimum jumps required to go to the end of the array
+      Minimum jumps required to go to the end of the array
               Input : 9
                       {1,3,5,8,9,2,6,7,6}
               output : 3
@@ -118,7 +118,7 @@ Q 12.
 
 Q 13.
 
- Find the element before which all the elements are smaller than it, and after which all are greater
+      Find the element before which all the elements are smaller than it, and after which all are greater
               Input : 9
                       {5, 1, 4, 3, 6, 8, 10, 7, 9}
               Output : 4
@@ -126,7 +126,7 @@ Q 13.
 
 Q 14.
 
- Peak element in the array 
+      Peak element in the array 
              Input : 4
                      { 5, 10, 20, 15}
              Output : 20
