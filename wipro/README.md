@@ -1,4 +1,6 @@
-Q. 1: Network interuption
+Q. 1:
+
+      Network interuption
       Sample Input:1  abcdefghij
                       abcdefghi
              Output:  j
@@ -6,7 +8,9 @@ Q. 1: Network interuption
                       aaaaaaaa 
              Output:  b
 
-Q. 2: Pattern problem
+Q. 2: 
+
+      Pattern problem
       Case 1: N=3
                  3 3 3
                  3 1 3
