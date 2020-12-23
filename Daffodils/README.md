@@ -1,6 +1,6 @@
 Q 1.
 
-    Given a string of alphabet, check whether input string have only character difference or not. Given string is "i like banana"
+      Given a string of alphabet, check whether input string have only character difference or not. Given string is "i like banana"
              test case 1 :
                   Input : i like bansna
                   Output : yes
