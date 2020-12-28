@@ -22,3 +22,16 @@ Q. 2:
                  4 4 2 4 4
                  4 4 3 4 4
                  4 4 4 4 4
+
+Q. 3:
+
+      Head of sale time
+      case 1: input: 4
+                     43 345 20 987
+              output:7 12 2 24
+
+Q. 4:
+
+      delete vowel from given string
+              input : Pranjal
+              output : Prnjl
