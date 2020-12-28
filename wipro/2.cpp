@@ -1,8 +1,9 @@
-#include<stdio.h>
+#include<iostream>
+using namespace std;
 int main()
 {
     int n,counter=1,k;
-    scanf("%d",&n);
+    cin>>n;
     if(n%2==0)
         k=n+1;
     else
@@ -13,10 +14,11 @@ int main()
         for(int j=0;j<k;j++)
         {
             if(j==k/2 && i>=1 && i<=n)
-            printf("%d",counter++);else
-            printf("%d",n);
+                cout<<counter++;
+            else
+            cout<<n;
         }
-        printf("\n");
+        cout<<endl;
     }
     return 0;
 }

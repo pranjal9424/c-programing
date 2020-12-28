@@ -35,3 +35,11 @@ Q. 4:
       delete vowel from given string
               input : Pranjal
               output : Prnjl
+
+Q. 5:
+
+     Online game
+        all the even number are placed before all the odd number
+               input : 5
+                       2 4 7 9 8
+               output : 2 4 8 7 9
