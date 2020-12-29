@@ -43,3 +43,35 @@ Q. 5:
                input : 5
                        2 4 7 9 8
                output : 2 4 8 7 9
+
+Q. 6:
+
+      pattern
+         input : 3(start value)
+                 4(value of n)
+         output : 3
+                  44
+                  555
+                  6666
+                  555
+                  44
+                  3
+
+Q. 7:
+
+      pattern
+         input : 4
+         output : 1
+                  2*2
+                  3*3*3
+                  4*4*4*4
+                  4*4*4*4
+                  3*3*3
+                  2*2
+                  1
+
+Q. 8:
+
+     reverse word in given sentence
+          input : Hello world
+          output : 0lleH dlrow
