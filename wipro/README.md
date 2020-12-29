@@ -75,3 +75,16 @@ Q. 8:
      reverse word in given sentence
           input : Hello world
           output : 0lleH dlrow
+
+Q. 9:
+
+       all the even number are placed before all the odd number
+           input : 5
+                   10 23 67 17 19
+           output : 23 67 17 19 10
+
+Q. 10:
+
+      string n count  
+            input : alpha
+            output : 3
