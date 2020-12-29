@@ -88,3 +88,20 @@ Q. 10:
       string n count  
             input : alpha
             output : 3
+
+Q. 11:
+
+      sabtraction of highest and second highest digit in given 3 number
+           input : 115
+                   274
+                   119
+          output : 15
+          explination : (5+7+9)-(1+4+1)=15 
+
+Q. 12:
+
+      print element at position k in sorted manner where given array is unsorted
+          input : 5
+                  2
+                  10 20 5 2 8
+          output : 5
