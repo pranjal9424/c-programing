@@ -78,7 +78,7 @@ Q. 8:
 
 Q. 9:
 
-       all the even number are placed before all the odd number
+       all the prime number are placed before all the prime number
            input : 5
                    10 23 67 17 19
            output : 23 67 17 19 10
