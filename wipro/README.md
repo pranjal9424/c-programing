@@ -92,19 +92,19 @@ Q. 10:
 Q. 11:
 
       sabtraction of highest and second highest digit in given 3 number
-           input : 115
-                   274
-                   119
-          output : 15
-          explination : (5+7+9)-(1+4+1)=15 
+           input : 3521
+                   2452
+                   1352
+          output : 5
+          explination : (5+5+5)-(3+4+3)=5 
 
 Q. 12:
 
       print element at position k in sorted manner where given array is unsorted
-          input : 5
-                  2
-                  10 20 5 2 8
-          output : 5
+          input : 7
+                  5
+                  9 -3 8 -6 -7 18 10
+          output : 9
 
 Q. 13:
 
@@ -175,3 +175,47 @@ Q. 22:
      print an integer representing the count of the specific digit
               input : 572378233 3
              output : 3
+
+Q. 23:
+
+     positive or profit sale day count
+            input : 7
+                    23 -7 13 -34 56 43 -12
+           output : 4
+
+Q. 24:
+
+     print largest area of trusses(tringle) between two triangle up to 6 decimal where h and b are given
+           intput : 4 5
+                    6 10
+          output : 30.000000
+
+Q. 25:
+
+      Reverse string and print no. of char having same pair
+            input : alphxxdida
+            output : 4
+
+Q. 26: 
+
+      print sum of even digit in given long int value
+            input : 258345
+           output : 14
+
+Q. 27:
+
+     Print an integer represtenting total fertility value of the block plowed on first day
+            input : 7
+                    2 -3 8 -6 -7 18 1
+            output : 4
+             expl : [2,8,-7,1]=4
+
+Q. 28:
+
+     Print special char in give string
+            input : gasgg54@#vscsd!s*
+           output : 4
+
+Q. 29:
+
+     
