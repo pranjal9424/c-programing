@@ -105,3 +105,61 @@ Q. 12:
                   2
                   10 20 5 2 8
           output : 5
+
+Q. 13:
+
+     Trailing Zero
+             test case 1:
+                   Input : 5
+                   Output : 1
+
+
+Q. 14:
+
+      sum of non-prime digit no. in given no.
+            input : 45673
+            output : 10
+
+Q. 15:
+
+       A cloud computing company
+            input : 6 30 50
+                    29 38 12 48 39 55
+            output : 38 48 39
+            explain : 38 48 39 is range b/w(30-50)
+
+Q. 16:
+
+     the company design game in such maner score will be sum of highest and second highest value in array
+          input : 7
+                  9 -3 8 -6 -7 8 10
+          output : 19
+          expl : 9+10=19 
+
+Q. 17:
+
+      sum of prime digit no. in given no.
+            input : 578
+            output : 12
+
+Q. 18:
+
+      In chemistry lab sum of experiment
+            input : 5 3 3
+            output : 24
+            explan : N=1 t=5
+                     N=2 t=5+3=8
+                     N=3 t=5+3+3=11
+                       s=(5+8+11)=24
+
+Q. 19:
+
+     reverse number of long range
+             input : 5783789
+            output : 9873875
+
+Q. 20:
+
+     if digit is even +1 else digit is odd -1 print from given number 
+             input : 245567
+            output : 354476
