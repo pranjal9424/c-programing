@@ -163,3 +163,15 @@ Q. 20:
      if digit is even +1 else digit is odd -1 print from given number 
              input : 245567
             output : 354476
+
+Q. 21:
+
+      Cosmetic older id print given from long number
+             input : 3455627
+             output : 2
+
+Q. 22:
+
+     print an integer representing the count of the specific digit
+              input : 572378233 3
+             output : 3
