@@ -286,3 +286,11 @@ Q. 38:
      print max digit in given long int
             input : 32387634
            output : 8
+
+Q. 39:
+
+    print no. perfect square in given string
+            input : 8
+                    79 77 54 81 48 34 25 16
+           output : 3
+             exp : [81,25,16]=3
