@@ -79,15 +79,15 @@ Q. 8:
 Q. 9:
 
        all the prime number are placed before all the prime number
-           input : 5
-                   10 23 67 17 19
-           output : 23 67 17 19 10
+           input : 7
+                   2 9 5 3 14 80 17
+          output : 2 5 3 17 9 14 80
 
 Q. 10:
 
       string n count  
-            input : alpha
-            output : 3
+            input : alphaadida
+            output : 4
 
 Q. 11:
 
@@ -218,4 +218,71 @@ Q. 28:
 
 Q. 29:
 
-     
+     print smalest largest smalest largest value in given 3 no.
+             input : 3521 2452 1352
+            output : 1522
+
+Q. 30:
+
+     print M space-seprated integer represnting the maximum revenue received each day
+             input : 3 4
+                     100 198 333 323
+                     122 232 221 111
+                     223 565 245 764
+            output : 333 232 245 764
+
+Q. 31:
+
+    print an intger represnting the one-time password generated for the order ID.
+             input : 2342
+            output : 48
+              exp : 2*3*4*2=48
+
+Q. 32:
+
+     print sum of top 2 sale in given array
+             input : 5
+                     15 26 13 7 45
+             output : 71
+              exp : 45+26=71
+
+Q. 33:  
+
+     print no. of negative account
+              input : 10
+                      -5 -3 8 -6 -7 18 10 -4 -3 11
+             output : 6
+
+Q. 34:
+
+     print no. of repeating digit in given long integer
+              input : 578378923
+              output : 3
+                exp : 7,8,3
+
+Q. 35:
+
+     print count no. of digit left after exluding k digit
+              input : 5644456
+                      5
+             output : 5
+
+Q. 36:
+
+     print k th element in Fibonacci series
+             input : 8
+             output : 21
+
+Q. 37:
+
+     print an integer representing the energy produced at the Nth second
+           intput : 4
+                    3
+                    5
+           output : 16
+
+Q. 38:
+
+     print max digit in given long int
+            input : 32387634
+           output : 8
