@@ -294,3 +294,11 @@ Q. 39:
                     79 77 54 81 48 34 25 16
            output : 3
              exp : [81,25,16]=3
+
+Q. 40:
+
+    print an integer representing the sum of the largest and smallest prime numbers in the range of given number
+            input : -97
+                     50
+            output : 50
+              exp : -97+47=-50 
