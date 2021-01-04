@@ -302,3 +302,26 @@ Q. 40:
                      50
             output : 50
               exp : -97+47=-50 
+
+Q. 41:
+
+    your bank decode problem if no. is armstrong number print sum of even digit else print sum of odd digit
+            input : 407
+            output : 4
+
+            iput : 1541
+            output : 7
+
+Q. 42:
+
+     bank credit and debit problem print no. of case in which consonant comes just after vowel
+            inout : OqPputLE
+           output : 2
+            exp : 'q' and 't'. 
+
+Q. 43:
+
+      print subtract of number with its reverse same number
+            input : 1234
+           output : -3087
+             exp : 124=4321=-3087;
