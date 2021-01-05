@@ -325,3 +325,15 @@ Q. 43:
             input : 1234
            output : -3087
              exp : 124=4321=-3087;
+
+Q. 44:
+
+       print min in all row where matrix are given
+             input : 4 3
+                     3  5  10
+                     1  5  2
+                     9  2  12
+                     40 0  16
+            output : 1 0 2
+
+Q. 45:  
