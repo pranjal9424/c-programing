@@ -2,13 +2,24 @@
 using namespace std;
 int main()
 {
-    int nd,ld,td,fd,year;
+    int year,ref_year=2001,leap=0,diff,day=0,totalday=0,fd;
     cin>>year;
-    nd=(year-1)*365;
-    ld=(year-1)/4-(year-1)/100+(year-1)/400;
-    td=nd+ld;
-    fd=td%7;
+    diff=year-ref_year;
+    while(ref_year<year)
+    {
+        if(ref_year%100==0){
+            if(ref_year%400==0)
+                leap++;
+        }
+        else
+            if(ref_year%4==0)
+                leap++;
+        ref_year++;
+    }
+    totalday = (diff-leap)*365+leap*366;
 
+    fd=totalday%7;
+    cout<<fd;
     if(fd==0)
         cout<<"mon";
     if(fd==1)
