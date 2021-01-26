@@ -337,3 +337,9 @@ Q. 44:
             output : 1 0 2
 
 Q. 45:  
+
+       swaping pair of 2 no.
+               input : 39631
+              output : 93361
+
+Q. 46:
