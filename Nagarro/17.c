@@ -24,3 +24,15 @@ int main()
     printf("%d\n", result);
     return 0;
 }
+
+/*
+test case 1:
+                Input : 2
+                        2
+                output : 3
+                Explanation : destripution like {1,1},{2,0} & {0,2} so output 3
+
+          test case 2:
+                Input : 1 and 12
+                output : 1
+*/

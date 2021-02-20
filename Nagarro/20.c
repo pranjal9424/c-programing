@@ -20,3 +20,10 @@ int main()
     scanf("%d",&n);
     printf("%s",fact(n));
 }
+
+
+/*
+
+Input : 5
+            output : 120
+*/

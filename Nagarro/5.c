@@ -15,3 +15,15 @@ int main(){
    return 0;
 }
 
+
+/*
+
+test case 1:
+             Input: n = 4
+             
+             Output: 9
+              
+             Explanations: For four elements say {0, 1, 2, 3}, there are 9
+                           possible derangements {1, 0, 3, 2} {1, 2, 3, 0}
+                           {1, 3, 0, 2}, {2, 3, 0, 1}, {2, 0, 3, 1}, {2, 3,1, 0}, {3, 0, 1, 2}, {3, 2, 0, 1} and {3, 2, 1, 0}
+*/

@@ -25,3 +25,14 @@ int main()
    return 0;
 }
 
+/*
+
+test case 1:
+              Input : level
+              output : 1
+
+        test case 2:
+              Input : abcd
+              output : 0;
+
+*/

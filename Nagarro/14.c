@@ -39,3 +39,20 @@ int main()
 
     printf("%d",rot(str,n,k));
 }
+
+
+
+
+/*
+
+test case 1:
+                 Input : AbcDef
+                         1
+                         2
+                 output :4
+ 
+                 Explanation : turn 1:fAbcDe
+                               turn 2:DefAbc
+                               turn 3:cDefAb
+                               turn 4:AbcDef
+*/

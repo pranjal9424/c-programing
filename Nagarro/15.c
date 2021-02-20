@@ -27,3 +27,12 @@ int main()
     printf("%d",nthPrime(n));
     return 0;
 }
+
+/*
+
+Input : 5
+                output : 11
+
+                Explanation : prime series 2 3 5 7 11 13
+                              5th prime no. is 11
+*/

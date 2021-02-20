@@ -29,3 +29,15 @@ int main()
     printf("%d",gcd(n,arr));
     return 0;
 }
+
+
+/*
+
+test case 1:
+             Input 1: 3
+             Input 2: {2,4,8}
+            
+             output: 2
+
+             Explanation: the common factor for 2,4,8 are 1 and 2 Hence the HCF is 2
+*/

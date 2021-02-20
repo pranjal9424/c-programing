@@ -28,3 +28,15 @@ int main()
     printf("%c",freq(str));
     return 0;
 }
+
+
+/*
+test case 1:
+                  Input : abcdd
+                  Output : d
+
+           test case 2:
+                  Input : puff
+                  Output : f
+
+*/

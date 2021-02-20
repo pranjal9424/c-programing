@@ -47,10 +47,14 @@ printf("%s",find_kth_expanded(s,n));
 
 
 
+/*
+test case 1:
+                    Input : a1b1c3
+                            5
+                    output : c
+              test case 2:
+                    Input : a3b2
+                            7
+                    output : -1
 
-
-
-
-
-
-
+*/

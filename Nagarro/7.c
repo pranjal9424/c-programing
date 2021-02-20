@@ -29,3 +29,16 @@ int main()
 
   return 0;
 }
+
+
+/*
+
+test case 1:
+             Input 1: "aba"
+             Input 2: "ababa"
+             
+             Output: 3
+              
+             Explanations: Length of Longest common subsequence is 3 that is "aba".
+
+*/

@@ -46,3 +46,15 @@ int main()
 
     return 0;
 }
+
+
+/*
+test case 1:
+                Input : welcome to mettl
+                Output : mettl to welcome
+
+           test case 2:
+                Input : My name is khan
+               Output : khan is name my
+
+*/

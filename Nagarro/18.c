@@ -34,3 +34,11 @@ int main()
     printf("%d",p);
     return 0;
 }
+
+
+/*
+test case 1:
+                  Input : 13
+                  output : 16
+*/
+

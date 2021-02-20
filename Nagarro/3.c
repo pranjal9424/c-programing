@@ -35,6 +35,21 @@ int main()
     printf("%d",countPalin(s,n));
     return 0;
 }
+
+
+
+
+
+/*
+test case 1:
+             Input 1: "this is level 71"
+             Input 2: "16"
+            
+             output: 1
+
+             Explanation: the reverse of the word 'level' is 'level'.Hence the word is palindrome . As the string contains only 
+                          one palindrome, so the return value will be 1.
+*/
 /*
 int main()
 {

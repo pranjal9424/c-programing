@@ -22,3 +22,16 @@ int prime(int n)
     }
     return 1;
 }
+
+
+
+
+
+/*
+     test case 1:
+             Input: 10
+             
+             Output: 1 2 3 5 7
+              
+             Explanations: 1 2 3 5 7 had only 2 factor so these are prime no. 
+*/

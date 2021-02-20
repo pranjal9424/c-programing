@@ -25,3 +25,19 @@ int main()
     scanf("%d",&k);
     printf("%d",rotate(org,k));
 }
+
+
+/*
+test case 1:
+                Input : adaada
+                        3
+
+                output : 1
+                Explanation : "adaada" when rotate 3 times given back "adaada"
+
+           test case 2:
+                Input : llohe ereth
+                        2
+                output : 0
+
+*/

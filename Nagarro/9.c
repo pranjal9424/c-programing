@@ -26,3 +26,15 @@ int main()
         printf("%d",*(p+i));
     }
 }
+
+
+/*
+test case 1:
+             Input 1: "5"
+             Input 2: {1,0,1,0,1}
+             
+             Output: {0,0,1,1,1}
+              
+             Explanations: befor sort {1,0,1,0,1} after sort {0,0,1,1,1}.
+
+*/

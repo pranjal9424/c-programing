@@ -32,3 +32,20 @@ int main()
     return 0;
 }
 
+
+
+
+
+/*
+test case 1:
+                   input : zbk
+                           zkb
+ 
+                 output : yes
+              test case 2:
+                   input : Mettl
+                           Coding
+ 
+                 output : No
+
+*/

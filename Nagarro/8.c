@@ -18,3 +18,11 @@ int main(){
   printf("%s",reverse(str));
   return 0;
 }
+
+
+/*
+
+test case 1:
+             Input 1: "i love programing"
+             Output: "gnimargorp evol i"
+*/

@@ -24,3 +24,17 @@ int main() {
    printf("%d",longestSubSeq(arr, n));
    return 0;
 }
+
+/*
+
+test case 1 :
+                  Input : 3
+                          {1,3,8}
+                  output : 2
+     
+             test case 2 :
+                  Input : 5
+                          {41,18467,6334,26500,19169}
+                  output : 3
+
+*/

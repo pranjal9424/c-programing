@@ -24,3 +24,19 @@ int main()
     ch=getchar();
     printf("%s",after(str,ch));
 }
+
+/*
+
+test case 1:
+             Input : Welcome to mettl
+                     l
+
+             output : Wecome to mett
+ 
+         test case 2:
+             Input : hello world omg
+                     o
+
+             output : hell wrld mg
+
+*/

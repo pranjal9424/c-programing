@@ -20,3 +20,13 @@ int main()
     for(i=0;i<n;i++)
         printf("%d",arr[i]);
 }
+
+
+/*
+test case 1:
+             Input : 4
+                     {1,2,3,4,5}
+                     1
+
+            output : {2,3,4,5,1}
+*/

@@ -25,3 +25,17 @@ int main()
         scanf("%d",&arr[i]);
     printf("%d",sumSub(arr,str,n));
 }
+
+
+/*
+
+test case 1:
+                 Input : {4,3,5}
+                         PNP
+                         3
+                 output :600
+ 
+                 Explanation : maximum electric charge +4-3+5=6 , so magnitude is abs(6)*100
+
+
+*/

@@ -23,3 +23,14 @@ int main() {
    printf("%d",longestSubSeq(str));
    return 0;
 }
+
+/*
+
+test case 1:
+                 input : abzd
+                 Output : 3
+         
+             test case 2:
+                 input : bcdabdz
+                 Output : 4
+*/

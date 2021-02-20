@@ -24,5 +24,4 @@ else
         temp++;
     printf("%d",temp-sum);
 }
-
 }
