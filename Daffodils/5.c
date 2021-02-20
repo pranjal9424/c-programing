@@ -33,3 +33,12 @@ int main()
     longestPalSubstr(str);
     return 0;
 }
+
+
+/*
+                Input: "forgeeksskeegfor" 
+                Output: "geeksskeeg"
+
+                Input: Given string :"Geeks", 
+                Output: "ee"
+*/

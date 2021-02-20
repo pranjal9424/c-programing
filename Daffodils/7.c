@@ -27,3 +27,11 @@ int main()
     printf("YES");
 }
 
+
+/*
+          Input : 51
+          output : no
+
+          Input : 71
+          output : yes
+*/

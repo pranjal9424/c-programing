@@ -22,3 +22,9 @@ int main()
         printf("%d",max);
     return 0;
 }
+
+/*
+              Input : 6
+                      {2,3,24,6,1,2}
+              output : 3
+*/

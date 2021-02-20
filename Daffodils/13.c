@@ -26,3 +26,8 @@ int main()
     printf("%d", findElement(arr, n));
     return 0;
 }
+/*
+              Input : 9
+                      {5, 1, 4, 3, 6, 8, 10, 7, 9}
+              Output : 4
+*/

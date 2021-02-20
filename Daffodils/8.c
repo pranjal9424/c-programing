@@ -29,3 +29,9 @@ int main()
 
     return 0;
 }
+
+/*
+              Input : i am am khan
+                      am
+              Output : 2
+*/

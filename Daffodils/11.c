@@ -46,3 +46,10 @@ int main ()
 	printf ("\n");
 	return 0;
 }
+
+
+/*
+              Input : you guys are awesome you can do it
+              output : you guys are awesome can do it
+*/
+

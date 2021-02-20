@@ -24,17 +24,10 @@ int main()
     printf("%d",arr[findPeak(arr, n)]);
     return 0;
 }
-/*#include<stdio.h>
-int main()
-{
-    int n,ans=0,max=1;
-    scanf("%d",&n);
-    for(int i=0;i<n;i++)
-    {
-        int x;
-        scanf("%d",&x);
-        if(x>max)
-            max=x;
-    }
-    printf("%d",max);
-}*/
+
+
+/*
+             Input : 4
+                     { 5, 10, 20, 15}
+             Output : 20
+*/

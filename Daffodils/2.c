@@ -104,3 +104,13 @@ main ()
 	}
     }
 }
+
+/*
+              test case 1 :
+                   Input : 134
+                   Output : 141
+ 
+              test case 2 :
+                   Input : 1234
+                   Output : 1331
+*/

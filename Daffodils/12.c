@@ -24,3 +24,9 @@ int main()
     printf("%d",minJumps(arr, 0, n - 1));
     return 0;
 }
+
+/*
+              Input : 9
+                      {1,3,5,8,9,2,6,7,6}
+              output : 3
+*/

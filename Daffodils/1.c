@@ -16,3 +16,14 @@ int main()
     printf("no");
 
 }
+
+
+/*
+             test case 1 :
+                  Input : i like bansna
+                  Output : yes
+
+             test case 2 :
+                  Input : i like banana
+                  Output : no
+*/
