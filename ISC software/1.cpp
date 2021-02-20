@@ -17,3 +17,12 @@ int main()
                 cout<<i<<" "<<j<<endl;
 
 }
+
+/*
+
+input : 5
+                    1 3 5 6 7
+                    8
+           output : 0 4
+                    1 2
+*/

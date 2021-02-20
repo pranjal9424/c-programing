@@ -31,3 +31,8 @@ int main()
     reverseWords(s);
     return 0;
 }
+
+/*
+input : my name is pranjal
+            output : pranjal.is.name.my
+*/

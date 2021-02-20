@@ -29,3 +29,10 @@ int main()
     }
     return 1;
 }
+
+
+/*
+input : 606
+            output : 616
+
+*/

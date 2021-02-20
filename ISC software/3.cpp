@@ -35,3 +35,9 @@ int main()
     if(fd==6)
         cout<<"sun";
 }
+
+
+/*
+input : 2001
+            output : mon
+*/
