@@ -12,3 +12,10 @@ int main()
     }
     cout<<day;
 }
+
+/*
+
+            input : 7
+                    23 -7 13 -34 56 43 -12
+           output : 4
+*/

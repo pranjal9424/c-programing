@@ -17,3 +17,10 @@ int main()
     ans=sm+m;
     cout<<ans;
 }
+
+/*
+          input : 7
+                  9 -3 8 -6 -7 8 10
+          output : 19
+          expl : 9+10=19 
+*/

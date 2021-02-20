@@ -13,3 +13,8 @@ int main()
     cout<<acc;
 }
 
+/*
+              input : 10
+                      -5 -3 8 -6 -7 18 10 -4 -3 11
+             output : 6
+*/

@@ -14,3 +14,8 @@ int main()
         cout<<c;
 }
 
+/*
+              input : 5644456
+                      5
+             output : 5
+*/

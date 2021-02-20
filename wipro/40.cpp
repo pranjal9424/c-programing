@@ -32,3 +32,11 @@ int main()
     cout<<sm<<lg<<endl;
     cout<<sm+lg;
 }
+
+
+/*
+            input : -97
+                     50
+            output : 50
+              exp : -97+47=-50 
+*/

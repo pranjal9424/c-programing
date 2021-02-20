@@ -33,3 +33,11 @@ int main()
     cout<<s;
 
 }
+
+/*
+            input : 407
+            output : 4
+
+            iput : 1541
+            output : 7
+*/

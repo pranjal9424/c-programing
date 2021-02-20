@@ -15,3 +15,10 @@ int main()
     }
     cout<<m+sm;
 }
+
+/*
+             input : 5
+                     15 26 13 7 45
+             output : 71
+              exp : 45+26=71
+*/

@@ -14,3 +14,9 @@ int main()
     }
     cout<<c;
 }
+
+/*
+            inout : OqPputLE
+           output : 2
+            exp : 'q' and 't'. 
+*/

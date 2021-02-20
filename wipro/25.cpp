@@ -21,3 +21,9 @@ int main()
             c++;
     cout<<c;
 }
+
+
+/*
+            input : alphxxdida
+            output : 4
+*/

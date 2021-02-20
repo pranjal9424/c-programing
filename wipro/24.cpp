@@ -10,3 +10,10 @@ int main()
     s=(b2*h2)*0.5;
     printf("%.6f",f>s?f:s);
 }
+
+
+/*
+           intput : 4 5
+                    6 10
+          output : 30.000000
+*/

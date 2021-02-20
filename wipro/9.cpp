@@ -22,3 +22,9 @@ int main()
     if(prime(arr[i])==0)
         cout<<arr[i]<<" ";
 }
+
+/*
+           input : 7
+                   2 9 5 3 14 80 17
+          output : 2 5 3 17 9 14 80
+*/

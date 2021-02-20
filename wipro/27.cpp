@@ -12,3 +12,10 @@ int main()
     }
     cout<<sum;
 }
+
+
+/*            input : 7
+                    2 -3 8 -6 -7 18 1
+            output : 4
+             expl : [2,8,-7,1]=4
+*/

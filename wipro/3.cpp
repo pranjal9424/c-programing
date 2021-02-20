@@ -18,3 +18,11 @@ int main()
         sum=0;
     }
 }
+
+/*
+
+      case 1: input: 4
+                     43 345 20 987
+              output:7 12 2 24
+
+*/

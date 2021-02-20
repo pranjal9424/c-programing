@@ -19,3 +19,10 @@ int main()
         cout<<arr[k-1];
 }
 
+/*
+          input : 7
+                  5
+                  9 -3 8 -6 -7 18 10
+          output : 9
+*/
+

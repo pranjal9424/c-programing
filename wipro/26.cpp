@@ -13,3 +13,10 @@ int main()
     }
     cout<<sum;
 }
+
+/*
+      print sum of even digit in given long int value
+            input : 258345
+           output : 14
+
+*/

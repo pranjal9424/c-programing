@@ -27,3 +27,9 @@ int main()
     cin>>s;
     cout<<helper(s);
 }
+
+/*
+          input : Hello world
+          output : 0lleH dlrow
+
+*/

@@ -23,3 +23,12 @@ int main()
     for(int k =i;k<l1;k++)
         cout<<str1[k];
 }
+
+/*
+Input:1  abcdefghij
+                      abcdefghi
+             Output:  j
+             Input:2  aaaabaaaa
+                      aaaaaaaa 
+             Output:  b
+*/

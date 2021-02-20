@@ -22,3 +22,7 @@ int main()
     }
     cout<<pra;
 }
+/*
+              input : Pranjal
+              output : Prnjl
+*/

@@ -23,3 +23,8 @@ int main()
     }
     cout<<c;
 }
+
+/*
+            input : alphaadida
+            output : 4
+*/

@@ -13,3 +13,8 @@ int main()
     }
     cout<<m;
 }
+
+/*
+            input : 32387634
+           output : 8
+*/

@@ -12,3 +12,9 @@ int main()
     }
     cout<<c;
 }
+
+
+/*
+            input : gasgg54@#vscsd!s*
+           output : 4
+*/

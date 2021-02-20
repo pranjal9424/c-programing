@@ -14,3 +14,9 @@ int main()
     cout<<findTrailingZeros(n);
     return 0;
 }
+
+/*
+            test case 1:
+                   Input : 5
+                   Output : 1
+*/

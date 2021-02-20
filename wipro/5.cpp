@@ -29,3 +29,11 @@ int main()
     for(int i=0;i<n;i++)
         cout<<arr[i]<<" ";
 }
+
+
+/*
+               input : 5
+                       2 4 7 9 8
+               output : 2 4 8 7 9
+
+*/

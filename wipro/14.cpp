@@ -20,3 +20,8 @@ int main()
     }
     cout<<sum;
 }
+
+/*
+            input : 45673
+            output : 10
+*/

@@ -15,3 +15,8 @@ int main()
         if(arr[i]==k)
         cout<<i;
 }
+
+/*
+              input : 572378233 3
+             output : 3
+*/

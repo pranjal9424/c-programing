@@ -8,3 +8,10 @@ int main()
         i+=r;
     cout<<i;
 }
+
+/*
+           intput : 4
+                    3
+                    5
+           output : 16
+*/

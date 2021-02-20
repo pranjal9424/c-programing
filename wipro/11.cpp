@@ -23,3 +23,11 @@ int main()
     ans=fun(a)+fun(b)+fun(c);
     cout<<ans;
 }
+
+/*
+           input : 3521
+                   2452
+                   1352
+          output : 5
+          explination : (5+5+5)-(3+4+3)=5 
+*/

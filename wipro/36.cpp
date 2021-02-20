@@ -16,3 +16,9 @@ int main()
     cout<<c;
     return 0;
 }
+
+
+/*
+             input : 8
+             output : 21
+*/

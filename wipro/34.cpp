@@ -16,3 +16,10 @@ int main()
             c++;
     cout<<c;
 }
+
+
+/*
+              input : 578378923
+              output : 3
+                exp : 7,8,3
+*/

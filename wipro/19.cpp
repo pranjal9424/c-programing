@@ -11,3 +11,7 @@ int main()
     }
     cout<<val;
 }
+/*
+             input : 5783789
+            output : 9873875
+*/

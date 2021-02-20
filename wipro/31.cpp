@@ -12,3 +12,8 @@ int main()
     cout<<id;
 }
 
+/*
+             input : 2342
+            output : 48
+              exp : 2*3*4*2=48
+*/

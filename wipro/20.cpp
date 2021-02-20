@@ -20,3 +20,7 @@ int main()
     }
 }
 
+/*
+             input : 245567
+            output : 354476
+*/

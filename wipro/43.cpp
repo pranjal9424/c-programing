@@ -15,3 +15,10 @@ int main()
     cout<<n-s;
     return 0;
 }
+
+/*
+
+            input : 1234
+           output : -3087
+             exp : 124=4321=-3087;
+*/

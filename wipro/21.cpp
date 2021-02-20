@@ -12,3 +12,8 @@ int main()
     }
     cout<<m;
 }
+
+/*
+             input : 3455627
+             output : 2
+*/

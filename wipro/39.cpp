@@ -17,3 +17,10 @@ int main() {
   cout<<c;
   return 0;
 }
+
+/*
+            input : 8
+                    79 77 54 81 48 34 25 16
+           output : 3
+             exp : [81,25,16]=3
+*/

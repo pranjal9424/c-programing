@@ -33,3 +33,9 @@ int main()
     }
     printf("%s",str);
 }
+
+
+/*
+               input : 39631
+              output : 93361
+*/

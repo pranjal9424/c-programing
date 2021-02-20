@@ -21,3 +21,7 @@ int main()
     cout<<sum;
 }
 
+/*
+            input : 578
+            output : 12
+*/
