@@ -123,3 +123,25 @@ Network intruption
     Output: j
 	
 	Explanation: the character 'j' at the end of the sent string was lost in the network during transmission.
+Q 13.	Statement
+
+
+print count no. of given character in string input
+
+	Input: 	haveagoodday
+			a
+	
+	Output: 3.
+
+	Explanation: The character "a" occure thrice in the data. So, the output is 3.
+
+Q 14. Statement
+
+
+A company wishes to transmit data to another server. The data consists of numbers only. To secure the data during transmission, they plan to reverse the data first. Write an algorithm to reverse the data. 
+
+	Input:	5783789
+	
+	Output: 9873875
+
+	Explanation: On reversing the given va Le the output is 9875875
