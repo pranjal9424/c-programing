@@ -93,3 +93,34 @@ Q. 13:
 			input:- c
 					g
 			output:- k
+
+Q. 14:	
+
+	String permutaion
+	Input:	ABC
+	Output:	6
+	
+	Explainition: total permutaion of the string can be ABC ACB BAC BCA CAB CBA and the cout is 6 . soo output is 6.
+	
+Q. 15:	
+
+	Write a program to take strıng as input and check if it contains only character or not, numeric and special symbols are not allowed. After that, reverse that string without using built in functions. If entered and reverse string both are same than give message as provided in double quotes"you inputted a strong string.", otherwvise print "you inputted a weak string.
+		input:	wow
+		output:	you inputted a strong string
+		
+Q. 16:
+
+	Step game:	
+	This is a game where there are steps numbered from 0 to the the n steps You will be on the nth step on the start of the game. Your goal to reach the Oth step at the end of the game with minimum no of jumps. If the given step's number is evn you are allowed to jump n/2 steps below at maximum and if the step no. is odd you are allowed to jump 1 step of steps required to win this game from the given input. below.Now find the minimum number
+	input:	10
+	output: 5
+	
+Q. 17:	
+
+	Straignt line or0:
+	Given a set of point in a plane, check weather the point lie on a straight line or not. if the lie on a straight line return the equation else return 0.
+	intput:	3
+			{1,1,2,2,3,3}
+	output: 1x-1y=0
+	
+	Explainition: the three point here are [11] [22] [33]. these lie on a line so it returned the equation.
