@@ -1,4 +1,4 @@
-Q. 1:
+﻿Q. 1:
 
 	Count no. of unique digit in given no.
             input : 1210
@@ -104,7 +104,7 @@ Q. 14:
 	
 Q. 15:	
 
-	Write a program to take strıng as input and check if it contains only character or not, numeric and special symbols are not allowed. After that, reverse that string without using built in functions. If entered and reverse string both are same than give message as provided in double quotes"you inputted a strong string.", otherwvise print "you inputted a weak string.
+	Write a program to take string as input and check if it contains only character or not, numeric and special symbols are not allowed. After that, reverse that string without using built in functions. If entered and reverse string both are same than give message as provided in double quotes"you inputted a strong string.", otherwvise print "you inputted a weak string.
 		input:	wow
 		output:	you inputted a strong string
 		
@@ -124,3 +124,61 @@ Q. 17:
 	output: 1x-1y=0
 	
 	Explainition: the three point here are [11] [22] [33]. these lie on a line so it returned the equation.
+
+Q. 18:	Factorial
+
+	input: 5
+	output: 120
+
+Q. 19:	Sum of divisor
+			
+			input:	6
+			output: 12
+			explanation:	1+2+3+6=12
+			
+Q. 20:	Number of combinations leading to a product
+
+			input:	m=60
+					n=5
+					{5,3,20,10,1,4,2}
+			output:	3
+			
+			Explainition:	product m-60
+							Possible triplets for product 'm':{5,4,3},{20,3,1} and {10,3,2}
+							count=3
+							
+Q. 21:  Longest palindrome substring
+
+		input:	ababa
+		output:	5
+		
+Q. 22:	Reverse String word wise
+
+		input:	welcome to mettl
+		output: mettl to welcome
+		
+Q. 23:	MBA challenge
+			
+			input:	m=9
+					n=2
+			output:1
+			
+			explanation: 9*9=81   1 is the last digit
+			
+Q. 24:	Palindrome count
+			input: 	str=this is level 71
+					n=16
+			output:	1
+			
+Q. 25:	number sum
+		return max + min of given array
+		
+		input:	n=4
+				{9,5,0,11}
+		output:	11
+		
+Q.	26:	Armstrong number
+			
+			input:	153
+			output:	Yes
+			
