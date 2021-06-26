@@ -1,15 +1,15 @@
 #include <iostream>
 using namespace std;
-int numbersum(int* arr,int n)
+int numbersum(int* input2,int input1)
 {
-    int mn=INT_MAX;
-    int mx=INT_MIN;
+    int mn=1000;
+    int mx=-10;
 
-    for(int i=0;i<n;i++){
-        if(mn>arr[i])
-            mn=arr[i];
-        if(mx<arr[i])
-            mx=arr[i];
+    for(int i=0;i<input1;i++){
+        if(mn>input2[i])
+            mn=input2[i];
+        if(mx<input2[i])
+            mx=input2[i];
     }
 
     return mn+mx;

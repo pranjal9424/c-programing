@@ -182,3 +182,16 @@ Q.	26:	Armstrong number
 			input:	153
 			output:	Yes
 			
+Q.  27:	Write a Program TO find SUM of ALL integers BETWEEN two integer numbers taken as input AND are divisible BY 7.
+			
+			Constraint: input1 < input2 
+
+			Input: 	1
+					20 
+			Output: 21
+			
+Q.	28:	Write a program to take two integers m & n as input and find the number of possible sequences of lengthn such that each of the next element is greater than or equal to twice of the previous element but less than or equal to m. 
+
+		Input:-	m=10
+				n=4
+		Output: 4
