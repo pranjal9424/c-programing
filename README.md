@@ -3,4 +3,4 @@ In this repo you can practice previous year coding question as well as 2020 fres
 
 #Must download this app
 
-https://play.google.com/store/apps/details?id=com.q_a.fangcoder&hl=en_IN&gl=US
+https://play.google.com/store/apps/details?id=com.q_a.fangcoder
